@@ -1,0 +1,27 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubensantibanezacosta/asincronismoJS_PLATZI.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "author": "Ruben Santibañez <rubensantibanezacosta902@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubensantibanezacosta/asincronismoJS_PLATZI/issues"
+  },
+  "homepage": "https://github.com/rubensantibanezacosta/asincronismoJS_PLATZI#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
